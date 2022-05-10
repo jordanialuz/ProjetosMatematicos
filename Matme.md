@@ -1,0 +1,1 @@
+Olá... Tudo bem? Bora aprender cálculo matemáticos no Bash?
