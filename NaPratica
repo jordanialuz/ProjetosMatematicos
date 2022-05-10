@@ -8,3 +8,10 @@ Iremos Multiplicar o resultado do var1 * 2 para acharmos o valor de var2
 var2=$[$var1 * 2]
 echo $var2
 16 --esse foi o resultado (8*2=16)
+Equação
+var1=10 (enter)
+var2=5(enter)
+var3=2(enter)
+var4=$[$var1 * (var3 + var2)] (enter)
+echo $var4 (serve para saber o resultado) (enter)
+70 --esse foi o resultado (var4= 10 * 2 + 5= 70)
