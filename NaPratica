@@ -1,1 +1,5 @@
 Iremos aprender ná pratica
+É bem simples! Siga a fórmula...
+var1=$[2 + 6]
+echo $var1
+8
