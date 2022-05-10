@@ -15,3 +15,11 @@ var3=2(enter)
 var4=$[$var1 * (var3 + var2)] (enter)
 echo $var4 (serve para saber o resultado) (enter)
 70 --esse foi o resultado (var4= 10 * 2 + 5= 70)
+Divisão
+Só divide números inteiros
+Exemplo:
+var1=8
+var=3
+var=$[$var1 / $var2]
+echo %var
+2 --esse foi o resultado (Só pegou a parte inteira...Não pegou a dízima)
