@@ -3,3 +3,8 @@ Iremos aprender ná pratica
 var1=$[2 + 6]
 echo $var1
 8
+Multiplicação
+Iremos Multiplicar o resultado do var1 * 2 para acharmos o valor de var2
+var2=$[$var1 * 2]
+echo $var2
+16 --esse foi o resultado (8*2=16)
